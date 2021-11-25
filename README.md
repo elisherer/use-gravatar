@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/use-gravatar.svg)](https://www.npmjs.com/package/use-gravatar)
 
-# useToggle
+# useGravatar
 A React hook (memoized) for getting gravatar's url based on email address
 
 ## Usage
